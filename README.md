@@ -23,4 +23,4 @@ cd cnvrg-core/cnvrg-aws/
 #enter options at the prompts
 ```
 
-
+*** If after the install finishes you see "no healthy upstream" you may just need to wait several minutes. issues with network speeds and install times as well as service health checks may cause the install to take longer. 
