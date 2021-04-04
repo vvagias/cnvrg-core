@@ -1,7 +1,7 @@
 # cnvrg-core
 resources for deploying and using cnvrg CORE 
 
-::: To install on a linux machine in any environment:::
+::: To install on a linux machine in any environment :::
 
 ''' 
 # example ./cnvrg-setup-headless.sh 11.22.33.44
