@@ -1,7 +1,8 @@
-# cnvrg-core
+## cnvrg-core
 resources for deploying and using cnvrg CORE 
 
-:: To install on a linux machine in any environment ::
+- To install on a linux machine in any environment
+
 
 ```
 
@@ -10,8 +11,9 @@ resources for deploying and using cnvrg CORE
 
 ```
 
-:: To creat an AWS AMI with minikube and deploy cnvrg automatically ::
-**if you have a prefered key copy it into the cnvrg-core/cnvrg-aws directory before running ./aws-automation.sh... 
+- To creat an AWS AMI with minikube and deploy cnvrg automatically 
+
+*** if you have a prefered key copy it into the cnvrg-core/cnvrg-aws directory before running ./aws-automation.sh... 
 
 cd into the cnvrg-aws directory 
 ```
